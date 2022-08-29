@@ -81,6 +81,8 @@ export default {
   font-family: 'Ubuntu', sans-serif;
   color: black;
   text-align: center;
+  outline: black 1px solid;
+  box-shadow: 0.3vh 0.3vh 0.5vh black;
 }
 
 </style>
